@@ -149,6 +149,18 @@ body{
           display: inline;
           font-weight: bold;
       }
+    .car{
+        width: 16rem;
+        margin: auto;
+    }
+    .im{
+        width: 18rem;
+        margin: auto;
+    }
+    .foot .hey{
+        padding-left: 25px;
+    }
+
 }
 @media(max-width:768px) {
     .overlay{
@@ -178,12 +190,12 @@ body{
     color: #f2f6fc;
 }
 .footer-brand{
-    font-size: 22px;
+    font-size: 20px;
     font-weight: 500;
     color: #ffffff99;
 }
 .build{
-    font-size: 18px;
+    font-size: 16px;
     color: #ffffff99;
 }
 
@@ -197,6 +209,10 @@ body{
 }
 .foot .anchor{
     text-decoration: none;
+    color: #ffffff99;
+    font-size: 14px;
+}
+.cop{
     color: #ffffff99;
 }
 .anchor:hover{
